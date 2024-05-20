@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(to right, #f9d423 0%, #ff4e50 100%);
+}
+
+button {
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+}
